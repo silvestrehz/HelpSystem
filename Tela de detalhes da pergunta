@@ -1,0 +1,21 @@
++-----------------------------------+
+| Home | Perguntas | Nova Pergunta | Perfil | Logout |
++-----------------------------------+
+| Título: [Título da Pergunta]     |
+| Descrição: [Descrição da Pergunta]|
+| Tags: [Tags]                     |
+| Autor: [Nome do Autor]           |
+| Data: [Data]                     |
+| Curtidas: [Número de Curtidas]   |
+| [Curtir/Votar]                   |
++-----------------------------------+
+| Respostas:                       |
+| - [Autor da Resposta]            |
+|   [Conteúdo da Resposta]         |
+|   [Data] [Curtidas] [Curtir/Votar]|
+| - ...                            |
+|-----------------------------------|
+| Adicionar Resposta:              |
+| [______________________________]  |
+| [Enviar Resposta]                |
++-----------------------------------+
