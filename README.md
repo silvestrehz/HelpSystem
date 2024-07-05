@@ -24,8 +24,10 @@ Sistema de Respostas:
 Responder às perguntas: Interface para os usuários responderem às perguntas.
 Classificação de Respostas: Sistema de curtidas/votos para classificar as respostas mais úteis.
 Moderação: Ferramentas para administradores/moderadores gerenciarem conteúdo inadequado.
+
 ---------------------------------------------------------------------------------------------------
 Arquitetura:
+
 Frontend:
 Páginas: Login, Registro, Dashboard, Nova Pergunta, Pergunta Detalhada, Perfil do Usuário, etc.
 Componentes: Formulário de Pergunta, Lista de Perguntas, Busca, Filtros, etc.
@@ -36,24 +38,26 @@ Serviços: Autenticação, Autorização, CRUD de Perguntas e Respostas, Busca e
 
 Banco de Dados:
 Tabelas: Users, Questions, Answers, Votes, Tags, etc.
+
 ---------------------------------------------------------------------------------------------
 Exemplos de Fluxo de Usuário:
 Registro/Login:
 
 Usuário se registra ou faz login.
-Usuário é redirecionado para o dashboard com as perguntas mais recentes.
+O usuário é redirecionado para o dashboard com as perguntas mais recentes.
 Criação de Pergunta:
 
 Usuário clica em "Nova Pergunta".
-Usuário preenche o formulário com o título, descrição, e tags/categorias.
+O usuário preenche o formulário com o título, descrição, e tags/categorias.
 Pergunta é salva no banco de dados e aparece na lista de perguntas.
 Resposta de Pergunta:
 
-Usuário seleciona uma pergunta para ver os detalhes.
-Usuário pode adicionar uma resposta à pergunta.
+O usuário seleciona uma pergunta para ver os detalhes.
+O usuário pode adicionar uma resposta à pergunta.
 Respostas podem ser votadas/curtidas por outros usuários.
 Busca e Filtragem:
 
-Usuário utiliza o campo de busca para procurar por perguntas específicas.
-Usuário pode filtrar perguntas por tags, categorias, ou popularidade.
+O usuário utiliza o campo de busca para procurar por perguntas específicas.
+O usuário pode filtrar perguntas por tags, categorias, ou popularidade.
 Desenvolver um sistema com essas funcionalidades vai proporcionar uma plataforma robusta de perguntas e respostas dentro da sua empresa, promovendo a troca de conhecimento e a colaboração entre os funcionários.
+
