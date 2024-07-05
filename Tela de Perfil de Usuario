@@ -1,0 +1,17 @@
++-----------------------------------+
+| Home | Perguntas | Nova Pergunta | Perfil | Logout |
++-----------------------------------+
+| Nome: [Nome do Usuário]          |
+| E-mail: [E-mail do Usuário]      |
+| Data de Registro: [Data]         |
+| Perguntas Feitas: [Número]       |
+| Respostas Dadas: [Número]        |
++-----------------------------------+
+| Editar Perfil                    |
+| - Nome: [____________________]   |
+| - E-mail: [____________________] |
+| - Senha: [____________________]  |
+| [Salvar]                         |
++-----------------------------------+
+| [Sair]                           |
++-----------------------------------+
