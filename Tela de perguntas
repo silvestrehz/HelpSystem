@@ -1,0 +1,19 @@
++-----------------------------------+
+| Home | Perguntas | Nova Pergunta | Perfil | Logout |
+|-----------------------------------|
+| [Campo de Busca]                 |
+|-----------------------------------|
+| Filtros:                         |
+| - Ordenar por: [Recente] [Popular] [Mais Curtidas] |
+| - Categorias: [____]             |
+| - Tags: [____]                   |
+|-----------------------------------|
+| Perguntas:                       |
+| - [Título da Pergunta 1]         |
+|   [Tags] [Autor] [Data] [Curtidas] |
+|   [Ver Detalhes]                 |
+| - [Título da Pergunta 2]         |
+|   [Tags] [Autor] [Data] [Curtidas] |
+|   [Ver Detalhes]                 |
+| ...                              |
++-----------------------------------+
