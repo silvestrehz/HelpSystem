@@ -29,3 +29,24 @@ Endpoints: /api/users, /api/questions, /api/answers, /api/votes, etc.
 Serviços: Autenticação, Autorização, CRUD de Perguntas e Respostas, Busca e Filtragem, etc.
 Banco de Dados:
 Tabelas: Users, Questions, Answers, Votes, Tags, etc.
+
+Exemplos de Fluxo de Usuário:
+Registro/Login:
+
+Usuário se registra ou faz login.
+Usuário é redirecionado para o dashboard com as perguntas mais recentes.
+Criação de Pergunta:
+
+Usuário clica em "Nova Pergunta".
+Usuário preenche o formulário com o título, descrição, e tags/categorias.
+Pergunta é salva no banco de dados e aparece na lista de perguntas.
+Resposta de Pergunta:
+
+Usuário seleciona uma pergunta para ver os detalhes.
+Usuário pode adicionar uma resposta à pergunta.
+Respostas podem ser votadas/curtidas por outros usuários.
+Busca e Filtragem:
+
+Usuário utiliza o campo de busca para procurar por perguntas específicas.
+Usuário pode filtrar perguntas por tags, categorias, ou popularidade.
+Desenvolver um sistema com essas funcionalidades vai proporcionar uma plataforma robusta de perguntas e respostas dentro da sua empresa, promovendo a troca de conhecimento e a colaboração entre os funcionários.
